@@ -1,4 +1,4 @@
-# 10-small-Python-Projects
+# Python utility scripts
 
 This repository contains a collection of Python utility scripts for various tasks. Each script serves a specific purpose and can be run independently.
 
