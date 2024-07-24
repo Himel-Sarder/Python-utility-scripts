@@ -1,3 +1,5 @@
+# pip install pillow captcha
+
 from captcha.image import ImageCaptcha
 import random
 import string
