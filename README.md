@@ -54,6 +54,13 @@ This repository contains a collection of Python utility scripts for various task
     - Stores tasks in a simple text file format for persistence.
     - Provides options to mark tasks as completed and clear the entire list.
 
+11. **Image Captcha**:
+
+      - Generates CAPTCHA images using randomly generated text for enhanced security.
+      - Utilizes the Pillow and captcha libraries for image creation and manipulation.
+      - Saves the CAPTCHA images to the specified directory with customizable file names and formats (e.g., PNG, JPEG).
+      - Ensures CAPTCHA text is difficult for automated systems to read while remaining legible to humans.
+
 ## Requirements:
 - Each script may have its own set of requirements. Please refer to the individual script's documentation for installation instructions.
 
