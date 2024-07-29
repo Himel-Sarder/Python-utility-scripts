@@ -26,3 +26,6 @@ if __name__ == "__main__":
     save_captcha_image(captcha_image, "captcha.png")
     print(f"CAPTCHA text: {captcha_text}")
     print("CAPTCHA image saved as 'captcha.png'")
+
+# Himel Sarder
+# Dept. of CSE, BSFMSTU
