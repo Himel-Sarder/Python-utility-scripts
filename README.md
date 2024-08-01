@@ -62,11 +62,14 @@ This repository contains a collection of Python utility scripts for various task
       - Ensures CAPTCHA text is difficult for automated systems to read while remaining legible to humans.
    
 12. **Countdown Timer:**
-   - Creates a countdown timer that accepts user input for the duration in seconds.
-   - Displays the remaining time in minutes and seconds, updating every second.
-   - Utilizes the `time` module for precise countdown functionality.
-   - Prints a "Time's up!" message when the countdown reaches zero.
-   - Simple and effective for tasks requiring timed intervals, such as study sessions, workouts, or reminders.
+      - Creates a countdown timer that accepts user input for the duration in seconds.
+      - Displays the remaining time in minutes and seconds, updating every second.
+      - Utilizes the `time` module for precise countdown functionality.
+      - Prints a "Time's up!" message when the countdown reaches zero.
+      - Simple and effective for tasks requiring timed intervals, such as study sessions, workouts, or reminders.
+   
+13. **Periodic Table Element:**
+       - Find elements all details with Atomic Number
 
 ## Requirements:
 - Each script may have its own set of requirements. Please refer to the individual script's documentation for installation instructions.
