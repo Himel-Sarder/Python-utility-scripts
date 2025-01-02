@@ -11,3 +11,4 @@ def take_screenshot(filename='screenshot.png'):
 
 # Example usage:
 take_screenshot()
+
